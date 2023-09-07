@@ -1,13 +1,10 @@
-![WHAT (1)](https://github.com/jebat8101/Whatsapp-Analyzer/assets/91609894/607b2cde-1eae-4e49-ac9e-547a0b5b3f07)
-
-
-
 # WhatsApp-Chat-Analyzer
 
 <img src="assets/work.gif" width="640" height="328" />
 
 ---
-![whatsapp](assets/images/banner.jpeg)
+![WHAT](https://github.com/jebat8101/Whatsapp-Analyzer/assets/91609894/8f5289c2-ce78-4c3c-9f9a-8240db8f3117)
+
 
 [![GitHub license](https://img.shields.io/github/license/pcsingh/WhatsApp-Chat-Analyzer.svg?logo=github)](https://github.com/pcsingh/WhatsApp-Chat-Analyzer/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/pcsingh/WhatsApp-Chat-Analyzer.svg?logo=github)](https://github.com/pcsingh/WhatsApp-Chat-Analyzer/stargazers) [![GitHub forks](https://img.shields.io/github/forks/pcsingh/WhatsApp-Chat-Analyzer.svg?logo=github&color=teal)](https://github.com/pcsingh/WhatsApp-Chat-Analyzer/network/members) [![GitHub top language](https://img.shields.io/github/languages/top/pcsingh/WhatsApp-Chat-Analyzer?color=yellow&logo=python)](https://github.com/pcsingh/WhatsApp-Chat-Analyzer)
 

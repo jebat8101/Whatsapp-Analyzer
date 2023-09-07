@@ -90,11 +90,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-> **_Need help?_** 
-> **_Feel free to contact me @ [premchandra.singh.5268@gmail.com](mailto:premchandra.singh.5268@gmail.com?Subject=WhatsApp_Chat_Analyzer)_**
 
----
-
-[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://www.linkedin.com/in/premchandra-singh/) [![smile please](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/pcsingh/)
 
 

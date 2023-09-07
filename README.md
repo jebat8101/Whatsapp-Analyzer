@@ -1,3 +1,7 @@
+![WHAT (1)](https://github.com/jebat8101/Whatsapp-Analyzer/assets/91609894/607b2cde-1eae-4e49-ac9e-547a0b5b3f07)
+
+
+
 # WhatsApp-Chat-Analyzer
 
 <img src="assets/work.gif" width="640" height="328" />

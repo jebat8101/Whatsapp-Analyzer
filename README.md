@@ -77,7 +77,6 @@ git push -u origin <your_branch_name>
 
 ## Run on Local System
 
-[![GitHub open issues](https://img.shields.io/github/issues/pcsingh/WhatsApp-Chat-Analyzer?logo=github)](https://github.com/pcsingh/WhatsApp-Chat-Analyzer/issues) [![GitHub contributors](https://img.shields.io/github/contributors/pcsingh/WhatsApp-Chat-Analyzer?logo=github)](https://github.com/pcsingh/WhatsApp-Chat-Analyzer/graphs/contributors) [![Premchandra Singh](https://img.shields.io/badge/Author-@pcsingh-gray.svg?colorA=gray&colorB=dodgerblue&logo=github)](https://github.com/pcsingh/)
 
 - Install packages given in `requirements.txt` (packages need **Python 3.11.0**).
 

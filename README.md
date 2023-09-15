@@ -32,7 +32,7 @@ Click on the <a href="https://github.com/pcsingh/WhatsApp-Chat-Analyzer/"><img s
 **2.** Clone the forked repository.
 
 ```bash
-git clone https://github.com/<your-github-username>/WhatsApp-Chat-Analyzer
+git clone https://github.com/jebat8101/Whatsapp-Analyzer.git
 ```
 
 **3.** Navigate to the project directory.
